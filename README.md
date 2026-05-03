@@ -44,34 +44,34 @@ PYTHON PROGRAMS/
 
 ## File Description
 
-- Exp1.py – Exp4.py, exp7.py**  
+- Exp1.py – Exp4.py, exp7.py  
   Basic experimental programs to understand Python concepts  
 
-- tuple.py**  
+- tuple.py  
   Demonstrates tuple creation, duplicates, length, and type checking  
 
-- list.py**  
+- list.py  
   Operations on lists such as adding, removing, and accessing elements  
 
-- set.py**  
+- set.py
   Demonstrates uniqueness and set operations  
 
-- strings.py**  
+- strings.py  
   String manipulation and built-in methods  
 
-- **functions.py**  
+- functions.py 
   Implementation of user-defined functions  
 
-- **filehandling.py**  
+- filehandling.py 
   Reading and writing data to files  
 
-- **bitwise.py**  
+- bitwise.py
   Bitwise operations in Python  
 
-- **py1.py, py2.py**  
+- py1.py, py2.py
   Additional practice programs  
 
-- **demofile.txt, myfile.txt**  
+- demofile.txt, myfile.txt  
   Sample files used in file handling programs  
 
 ---
