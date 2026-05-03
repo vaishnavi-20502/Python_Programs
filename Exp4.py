@@ -1,5 +1,5 @@
 #1
-'''
+
 a = 1
 n = int(input("Enter a non-negative number:"))
 if n < 0:
@@ -79,5 +79,4 @@ print("numbers divisible by 5 and 7 between 1 and 100 are",count)
 a = input("Enter a string:")
 for x in a:
     print(x.upper(),end="")
-'''
-#9
+

@@ -4,7 +4,7 @@
 #"x" - create - creates the specified file, returns an error if the file exists
 #"t" - text - default value. text mode
 #"b" - binary - binary mode (e.g. images)
-'''
+
 #1
 f = open("demofile.txt")
 #is same as
@@ -56,5 +56,5 @@ if os.path.exists("C:\\Users\\DELL\\Documents\\demofile2.txt"):
     os.remove("C:\\Users\\DELL\\Documents\\demofile2.txt")
 else:
     print("The file doesn't exist")
-'''
+
 #15

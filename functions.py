@@ -1,4 +1,4 @@
-'''
+
 #A function is a block of code which only runs when it's called
 #1
 def my_func():
@@ -102,7 +102,6 @@ mytripler = myfunc(3)
 
 print(mydoubler(11))
 print(mytripler(11))
-'''
 #Python Arrays
 #Python doesn't have built in support for arrays, but python lists can be used instead
 
